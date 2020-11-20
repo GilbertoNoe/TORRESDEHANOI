@@ -1,0 +1,32 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  font-size: 40;
+}
+
+.main-container {
+  width: 860px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+#main {
+    background-color: 606363;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+p{
+    font-size: x-large;
+}
+#step-information span {
+    color: white;
+    font-weight: bold;
+    font-size:  200%;
+}
+#footer {
+  padding: 5px;
+  font-family: verdana;
+  font-size: 11px;
+}
